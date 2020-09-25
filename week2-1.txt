@@ -1,0 +1,23 @@
+Types of market:
+1. Direct Market
+2. Broker Marker -> Like Property
+3. Dealer Market -> Car showroom
+4. Auction Market -> Mines lent
+
+
+Bid price(Buyer) and ask price(Seller)
+Bid ask spread
+
+Question for next class:
+Why are money market securities are sometimes reffered to as cash equivalence?
+
+Bull
+Bear 
+Lameduck
+
+
+Types of order:
+1. Market Order -> 
+2. Limit Order ->
+3. Stoploss order ->
+4. Stock order -> reverse of 3.
